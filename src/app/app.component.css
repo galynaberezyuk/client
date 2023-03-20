@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.ng-select.custom {
+    border: 1px gray;
+    border-style: solid;
+    min-height: 0px;
+    border-radius: 3;
+    background-color: rgb(232, 229, 225);
+    width: 200px;
+}
+
+
+    .ng-select.custom:hover {
+        background-color: rgb(60, 50, 241);
+
+    }
+
+.ng-select.custom .ng-select-container  {            
+    min-height: 0px;
+    border-radius: 0;
+}
+.btn-yellow {
+    background-color: yellow;
+    color: black;
+  }
+  
+  .btn-red {
+    background-color: red;
+    color: white;
+  }
+
+
+  
